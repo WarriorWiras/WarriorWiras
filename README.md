@@ -31,6 +31,7 @@ A teenager who is passionate in expanding the knowledge in Cyber Security Fields
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![GraphQL Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-121011?style=for-the-badge&logo=php&logoColor=white)](#)
 
 #### OS
 
