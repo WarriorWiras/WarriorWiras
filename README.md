@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A teenager who is passionate in expanding the knowledge in Cyber Security Fields.
 
-[![Linkedin Badge](https://img.shields.io/badge/Harsha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-wafiyuddin-b6a48a189/) [![Mail Badge](https://img.shields.io/badge/hxrsha.v-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hxrsha.v)
+[![Linkedin Badge](https://img.shields.io/badge/Wafiyuddin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-wafiyuddin-b6a48a189/) [![Mail Badge](https://img.shields.io/badge/hxrsha.v-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hxrsha.v)
 [![website Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.harsha.link)
 [![Mail Badge](https://img.shields.io/badge/mail@harsha.link-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:Mail@harsha.link)
 
