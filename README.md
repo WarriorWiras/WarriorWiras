@@ -42,9 +42,7 @@ A teenager who is passionate in expanding the knowledge in Cyber Security Fields
 #### technologies
 
 [![windows Badge](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#)
-[![windows Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-[![windows Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
-[![windows Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![windows Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 
 ### Github Stats
 
