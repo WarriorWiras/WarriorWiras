@@ -48,9 +48,10 @@ A teenager who is passionate in expanding the knowledge in Cyber Security Fields
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=WarriorWiras&count_private=true&count_private=true&theme=vision-friendly-dark&show_icons=true)
 #### Coding Stats
+<!-- Check wakatime stats-->
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WarriorWiras&count_private=true&theme=vision-friendly-dark&)
 
 
 
-
+<!-- Check visiot badge -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshav167.harshav167)
