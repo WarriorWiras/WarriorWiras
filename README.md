@@ -39,7 +39,7 @@ A teenager who is passionate in expanding the knowledge in Cyber Security Fields
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
-#### technologies
+#### Technologies
 
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#)
 [![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=google-cloud&logoColor=black)](#)
